@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{427DDEED-3CF7-45D3-87DA-A3C35398210C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamTradingTool/Main.storyboard">
+    <Files>
+      <File FileName="XamTradingTool/Main.storyboard" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XamTradingTool PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DD2C88A6-A8FC-4971-806A-DCA12A69814E">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.XamTradingTool>
+</Properties>
